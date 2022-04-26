@@ -1,0 +1,5 @@
+command_channel_id:
+report_channel_id:
+history_channel_id:
+
+MODER_ROLE_ID:

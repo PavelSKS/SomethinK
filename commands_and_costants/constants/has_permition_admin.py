@@ -1,0 +1,1 @@
+@commands.has_permissions(administrator=True)

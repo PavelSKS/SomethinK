@@ -1,0 +1,1 @@
+@commands.has_role(MODER_ROLE_ID)
